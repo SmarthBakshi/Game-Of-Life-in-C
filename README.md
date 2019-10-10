@@ -1,3 +1,2 @@
 # Game Of Life in C
-Also known as Conway's Game Of Life, asks for number of living organisms for a predefined grid environment and creates the next generation 
-after assessing the surroundings. User can check if he wants to check out the further generations or not.
+Conways’s Game Of Life is a Cellular Automation Method created by John Conway. This game was created with Biology in mind but has been applied in various fields such as Graphics, terrain generation,etc..
